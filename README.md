@@ -1,0 +1,1 @@
+# recaptcha-modifier.js
